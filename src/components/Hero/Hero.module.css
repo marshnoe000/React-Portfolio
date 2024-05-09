@@ -87,4 +87,8 @@
     .content {
         align-items: center;
     }
+    
+    .title {
+        align-items: center;
+    }
 }
