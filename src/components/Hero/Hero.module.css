@@ -91,4 +91,8 @@
     .title {
         align-items: center;
     }
+
+    .heroImage {
+        margin-bottom: 33px;
+    }
 }
