@@ -12,19 +12,47 @@
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
+      "title": "JavaScript",
+      "imageSrc": "skills/js.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
     },
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Agile",
+      "imageSrc": "skills/agile.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/c++.png"
+    },
+    {
+      "title": "Jira",
+      "imageSrc": "skills/jira.png"
+    },
+    {
+      "title": "Github",
+      "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "REST APIs",
+      "imageSrc": "skills/rest.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    }, 
+    {
+      "title": "Spring",
+      "imageSrc": "skills/spring.png"
     }
   ]

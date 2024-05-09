@@ -1,29 +1,45 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "role": "Software Engineer Intern/Software Engineer(Part-time)",
+      "organization": "FamilySearch",
+      "startDate": "Apr, 2023",
+      "endDate": "Apr, 2024",
+      "experiences": ["Used Java and Spring to create REST APIs", 
+      "Helped plan and engineer microservice including REST APIs and Postgres databases",
+      "Added features and fixed bugs on 5+ different microservices", 
+      "Worked to reduce technical debt in our largest service"],
+      "imageSrc": "history/familySearch.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Microsoft",
-      "startDate": "Aug, 2021",
+      "role": "Bakery Clerk",
+      "organization": "Peterson's Fresh Market",
+      "startDate": "May, 2022",
       "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "experiences": ["Trained new employees in customer service and packaging bakery goods", 
+      "Answered customer questions about bakery goods", 
+      "Took custom orders for customers both over the phone and in person"],
+      "imageSrc": "history/petersons.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Personal Shopper",
+      "organization": "Walmart",
+      "startDate": "May, 2021",
+      "endDate": "Aug, 2021",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Trained new employees in collecting and fulfilling customer orders",
+        "Organized orders to be easy to find and deliver to customers in their cars"
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/walmart.png"
+    },
+    {
+      "role": "Sales Associate",
+      "organization": "ZAGG invisibleShield(Franchise)",
+      "startDate": "May, 2018",
+      "endDate": "Aug, 2020",
+      "experiences": [
+        "Trained several new employees in customer service and screen protector application skills",
+        "Helped customers find and purchase the best protection for their phones"
+      ],
+      "imageSrc": "history/zagg.png"
     }
   ]

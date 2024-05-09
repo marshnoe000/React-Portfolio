@@ -9,12 +9,11 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I&apos;m Noelle</h1>
             <p className={styles.description}>
-                I&apos;m a full-stack developer with some experience using 
-                React and Node.js. Reach out if you would like to learn more!
+                I&apos;m a software engineer. I&apos;ve mainly done backend in Java but am currently learning and practicing React and JavaScript. Reach out if you would like to talk to me about any of my projects or potential jobs!
             </p>
             <a href="mailto:noelle.marshall17@gmail.com" className={styles.contactButton}>Contact Me</a>
         </div>
-        <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImage}/>
+        <img src={getImageUrl("hero/Me.jpg")} alt="Hero image of me" className={`${styles.heroImage} ${styles.vignetteEffect}`}/>
         <div className={styles.topBlur} />
         <div className={styles.bottomBlur} />
     </section>
