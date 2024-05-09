@@ -1,26 +1,25 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Connect4 AI Project",
+    "imageSrc": "projects/connect4.png",
+    "description": "This is a project to allow you to play Connect4 against another person or bot. It utilizes the negamax algorithm and a static game board evaluation method.",
+    "skills": ["Python", "AI", "Algorithms", "Game State Branching"],
+    "demo": "https://www.youtube.com/watch?v=fqI5tlqL944",
+    "source": "https://github.com/marshnoe000/Connect4Project"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Portfolio Website",
+    "imageSrc": "projects/website.png",
+    "description": "This is a project that helped me learn React, JS, HTML, and CSS. I also wanted to have a place that I could share some of the projects I have worked on and this was the perfect space.",
+    "skills": ["React", "HTML", "CSS", "JavaScript", "JSON"],
+    "source": "https://github.com/marshnoe000/React-Portfolio"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Family Recipes Project",
+    "imageSrc": "projects/familyRecipes.png",
+    "description": "This is a project I worked on with several teammates. I mainly worked on the backend in Python and Flask. We finished the backend but not the frontend by the end of the semester.",
+    "skills": ["Python", "Flask", "LibSQL"],
+    "demo": "https://www.figma.com/proto/bEj7F8B8zmYdYXMBFwqKZc/Family-Recipe-App?type=design&node-id=15-442&t=EpNxrJt7stVyMaoT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A442&show-proto-sidebar=1&mode=design",
+    "source": "https://github.com/marshnoe000/family-recipes"
   }
 ]
